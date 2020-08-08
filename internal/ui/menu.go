@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/model"
 	"github.com/derailed/tview"
 	runewidth "github.com/mattn/go-runewidth"
 )

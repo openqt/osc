@@ -6,11 +6,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/color"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/openqt/osc/internal"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/color"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/dao"
 	"github.com/rs/zerolog/log"
 )
 

@@ -3,7 +3,7 @@ package model_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/model"
+	"github.com/openqt/osc/internal/model"
 	"github.com/sahilm/fuzzy"
 	"github.com/stretchr/testify/assert"
 )

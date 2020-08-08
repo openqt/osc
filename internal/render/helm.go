@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/openqt/osc/internal/client"
 	"github.com/gdamore/tcell"
 	"helm.sh/helm/v3/pkg/release"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

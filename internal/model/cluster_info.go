@@ -3,8 +3,8 @@ package model
 import (
 	"context"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/dao"
 )
 
 // ClusterInfoListener registers a listener for model changes.

@@ -3,9 +3,9 @@ package view
 import (
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/render"
+	"github.com/openqt/osc/internal/ui"
 )
 
 // OpenFaas represents an OpenFaaS viewer.

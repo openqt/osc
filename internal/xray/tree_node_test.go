@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/derailed/k9s/internal/xray"
+	"github.com/openqt/osc/internal/xray"
 	"github.com/stretchr/testify/assert"
 )
 

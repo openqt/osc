@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/openqt/osc/internal/dao"
 	"github.com/sahilm/fuzzy"
 )
 

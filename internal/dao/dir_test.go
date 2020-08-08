@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/openqt/osc/internal"
+	"github.com/openqt/osc/internal/dao"
 	"github.com/stretchr/testify/assert"
 )
 

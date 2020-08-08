@@ -3,9 +3,9 @@ package model
 import (
 	"context"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/dao"
+	"github.com/openqt/osc/internal/render"
 	"github.com/derailed/tview"
 	"k8s.io/apimachinery/pkg/runtime"
 )

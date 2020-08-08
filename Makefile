@@ -1,10 +1,10 @@
-NAME    := k9s
-PACKAGE := github.com/derailed/$(NAME)
+NAME    := osc
+PACKAGE := github.com/openqt/$(NAME)
 GIT     := $(shell git rev-parse --short HEAD)
 SOURCE_DATE_EPOCH ?= $(shell date +%s)
 DATE    := $(shell date -u -d @${SOURCE_DATE_EPOCH} +%FT%T%Z)
-VERSION  ?= v0.21.7
-IMG_NAME := derailed/k9s
+VERSION  ?= v0.0.1
+IMG_NAME := openqt/osc
 IMAGE    := ${IMG_NAME}:${VERSION}
 
 default: help

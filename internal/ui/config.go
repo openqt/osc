@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/render"
 	"github.com/fsnotify/fsnotify"
 	"github.com/rs/zerolog/log"
 )

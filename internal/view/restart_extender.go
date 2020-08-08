@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/ui"
-	"github.com/derailed/k9s/internal/ui/dialog"
+	"github.com/openqt/osc/internal/dao"
+	"github.com/openqt/osc/internal/ui"
+	"github.com/openqt/osc/internal/ui/dialog"
 	"github.com/gdamore/tcell"
 )
 

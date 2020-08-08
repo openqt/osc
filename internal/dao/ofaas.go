@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/render"
 	"github.com/openfaas/faas-cli/proxy"
 	"github.com/openfaas/faas/gateway/requests"
 	"github.com/rs/zerolog/log"

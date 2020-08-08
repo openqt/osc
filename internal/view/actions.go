@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/ui"
-	"github.com/derailed/k9s/internal/ui/dialog"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/ui"
+	"github.com/openqt/osc/internal/ui/dialog"
 	"github.com/gdamore/tcell"
 	"github.com/rs/zerolog/log"
 )

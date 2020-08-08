@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/openqt/osc/internal/client"
 	"github.com/rs/zerolog/log"
 	appsv1 "k8s.io/api/apps/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

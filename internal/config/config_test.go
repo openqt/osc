@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/derailed/k9s/internal/config"
+	"github.com/openqt/osc/internal/config"
 	m "github.com/petergtz/pegomock"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"

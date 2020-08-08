@@ -3,7 +3,7 @@ package ui
 import (
 	"sort"
 
-	"github.com/derailed/k9s/internal/model"
+	"github.com/openqt/osc/internal/model"
 	"github.com/gdamore/tcell"
 	"github.com/rs/zerolog/log"
 )

@@ -5,8 +5,8 @@ import (
 
 	_ "net/http/pprof"
 
-	"github.com/derailed/k9s/cmd"
-	"github.com/derailed/k9s/internal/config"
+	"github.com/openqt/osc/cmd"
+	"github.com/openqt/osc/internal/config"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 	_ "k8s.io/client-go/plugin/pkg/client/auth"

@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/derailed/k9s/internal/model"
+	"github.com/openqt/osc/internal/model"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell"
 	"github.com/rs/zerolog"

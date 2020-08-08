@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/xray"
+	"github.com/openqt/osc/internal"
+	"github.com/openqt/osc/internal/render"
+	"github.com/openqt/osc/internal/xray"
 	"github.com/stretchr/testify/assert"
 )
 

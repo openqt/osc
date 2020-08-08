@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/openqt/osc/internal/model"
+	"github.com/openqt/osc/internal/render"
 	"k8s.io/apimachinery/pkg/runtime"
 )
 

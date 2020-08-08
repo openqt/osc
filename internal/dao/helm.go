@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/render"
 	"github.com/rs/zerolog/log"
 	"helm.sh/helm/v3/pkg/action"
 	"k8s.io/apimachinery/pkg/runtime"

@@ -4,7 +4,7 @@
 package model_test
 
 import (
-	client "github.com/derailed/k9s/internal/client"
+	client "github.com/openqt/osc/internal/client"
 	pegomock "github.com/petergtz/pegomock"
 	v1 "k8s.io/api/core/v1"
 	v1beta1 "k8s.io/metrics/pkg/apis/metrics/v1beta1"

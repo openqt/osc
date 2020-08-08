@@ -1,6 +1,6 @@
 package config
 
-import "github.com/derailed/k9s/internal/client"
+import "github.com/openqt/osc/internal/client"
 
 const defaultRefreshRate = 2
 

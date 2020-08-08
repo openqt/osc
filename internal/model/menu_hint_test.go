@@ -4,7 +4,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/derailed/k9s/internal/model"
+	"github.com/openqt/osc/internal/model"
 	"github.com/stretchr/testify/assert"
 )
 

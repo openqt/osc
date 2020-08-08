@@ -3,9 +3,9 @@ package ui
 import (
 	"sync"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/model"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell"
 	"github.com/rs/zerolog/log"

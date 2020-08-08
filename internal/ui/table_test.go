@@ -5,12 +5,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/openqt/osc/internal"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/model"
+	"github.com/openqt/osc/internal/render"
+	"github.com/openqt/osc/internal/ui"
 	"github.com/stretchr/testify/assert"
 	"k8s.io/apimachinery/pkg/runtime"
 )

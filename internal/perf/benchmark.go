@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/config"
 	"github.com/rakyll/hey/requester"
 	"github.com/rs/zerolog/log"
 )

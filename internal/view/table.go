@@ -5,10 +5,10 @@ import (
 	"time"
 
 	"github.com/atotto/clipboard"
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/openqt/osc/internal"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/model"
+	"github.com/openqt/osc/internal/ui"
 	"github.com/gdamore/tcell"
 	"github.com/rs/zerolog/log"
 )

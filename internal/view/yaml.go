@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/derailed/k9s/internal/config"
+	"github.com/openqt/osc/internal/config"
 	"github.com/derailed/tview"
 	"github.com/rs/zerolog/log"
 )

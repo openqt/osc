@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/openqt/osc/internal/client"
 	"github.com/gdamore/tcell"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"

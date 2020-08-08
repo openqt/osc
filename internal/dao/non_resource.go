@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/openqt/osc/internal/client"
 	"k8s.io/apimachinery/pkg/runtime"
 )
 

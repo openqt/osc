@@ -8,10 +8,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/render"
+	"github.com/openqt/osc/internal/ui"
 	"github.com/rs/zerolog/log"
 )
 

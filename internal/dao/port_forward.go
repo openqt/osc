@@ -6,10 +6,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/openqt/osc/internal"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/render"
 	"github.com/rs/zerolog/log"
 	"k8s.io/apimachinery/pkg/runtime"
 )

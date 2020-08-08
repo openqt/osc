@@ -1,9 +1,9 @@
 package model
 
 import (
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/xray"
+	"github.com/openqt/osc/internal/dao"
+	"github.com/openqt/osc/internal/render"
+	"github.com/openqt/osc/internal/xray"
 )
 
 // Registry tracks resources metadata.

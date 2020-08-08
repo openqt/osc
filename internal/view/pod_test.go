@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/view"
+	"github.com/openqt/osc/internal"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/view"
 	"github.com/stretchr/testify/assert"
 )
 

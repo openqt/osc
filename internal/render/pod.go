@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/openqt/osc/internal/client"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell"
 	v1 "k8s.io/api/core/v1"

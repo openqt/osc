@@ -3,9 +3,9 @@ package ui_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/model"
+	"github.com/openqt/osc/internal/ui"
 	"github.com/stretchr/testify/assert"
 )
 

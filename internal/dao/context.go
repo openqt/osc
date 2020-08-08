@@ -3,8 +3,8 @@ package dao
 import (
 	"context"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/render"
 	"github.com/rs/zerolog/log"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/client-go/tools/clientcmd"

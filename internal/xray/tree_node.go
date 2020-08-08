@@ -6,8 +6,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/dao"
 	"github.com/rs/zerolog/log"
 	"vbom.ml/util/sortorder"
 )

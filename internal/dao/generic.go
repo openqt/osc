@@ -6,8 +6,8 @@ import (
 
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
+	"github.com/openqt/osc/internal"
+	"github.com/openqt/osc/internal/client"
 	"github.com/rs/zerolog/log"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"

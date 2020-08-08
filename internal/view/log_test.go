@@ -7,10 +7,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/view"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/dao"
+	"github.com/openqt/osc/internal/view"
 	"github.com/derailed/tview"
 	"github.com/stretchr/testify/assert"
 )

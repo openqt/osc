@@ -3,7 +3,7 @@ package view_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/view"
+	"github.com/openqt/osc/internal/view"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"time"
 
-	client "github.com/derailed/k9s/internal/client"
+	client "github.com/openqt/osc/internal/client"
 	pegomock "github.com/petergtz/pegomock"
 	v1 "k8s.io/api/core/v1"
 	version "k8s.io/apimachinery/pkg/version"

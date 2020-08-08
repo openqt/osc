@@ -1,4 +1,4 @@
-module github.com/derailed/k9s
+module github.com/openqt/osc
 
 go 1.14
 

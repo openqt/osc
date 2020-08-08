@@ -13,12 +13,12 @@ import (
 
 	"github.com/atotto/clipboard"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/color"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/color"
+	"github.com/openqt/osc/internal/config"
+	"github.com/openqt/osc/internal/dao"
+	"github.com/openqt/osc/internal/model"
+	"github.com/openqt/osc/internal/ui"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell"
 	"github.com/rs/zerolog/log"

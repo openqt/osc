@@ -1,8 +1,8 @@
 package view
 
 import (
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/openqt/osc/internal/client"
+	"github.com/openqt/osc/internal/ui"
 	"github.com/gdamore/tcell"
 )
 

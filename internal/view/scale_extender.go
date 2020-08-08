@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/openqt/osc/internal/dao"
+	"github.com/openqt/osc/internal/ui"
 	"github.com/derailed/tview"
 	"github.com/gdamore/tcell"
 	"github.com/rs/zerolog/log"
